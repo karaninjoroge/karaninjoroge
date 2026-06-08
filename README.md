@@ -1,158 +1,129 @@
 <div align="center">
 
-# Dennis Karani Njoroge
+# Karani Njoroge
+### Product Manager in Training | Biomedical Engineering | Building at the Intersection of Health, Education & Technology
 
-### Biomedical Engineer → Product Manager
-#### Building products at the intersection of healthcare, data, and human behaviour
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dennis_Karani-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/denniskarani)
-[![Portfolio](https://img.shields.io/badge/Notion-PM_Portfolio-000000?style=flat-square&logo=notion)](https://notion.so/denniskarani)
-[![Email](https://img.shields.io/badge/Email-denniskarani%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:denniskarani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/karaninjoroge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=flat-square)](https://github.com/karaninjoroge/pm-portfolio)
+[![Learning Journal](https://img.shields.io/badge/Learning_Journal-Read-brightgreen?style=flat-square)](https://github.com/karaninjoroge/product-learning-journal)
 
 </div>
 
 ---
 
-## The Intersection
+## Why Product Management?
 
-Biomedical engineering trains you to think in systems: understand the human body, identify where it fails, design interventions that work reliably at scale. Product management asks exactly the same questions — just applied to software. I spent years learning how to solve problems at the intersection of biology and technology. Now I apply that same rigour to building products that work for real people.
+Biomedical Engineering taught me that the hardest part of healthcare innovation is rarely the science. It is the gap between what technology can do and what people can actually use, afford, and trust. That gap is a product problem — and the people who close it are Product Managers.
 
-Most PM candidates can tear down Spotify. I can tear down M-Tiba, Ilara Health, and clinical decision-support systems — and explain how the incentive structures in Kenyan healthcare shape every product decision. That perspective is rare. I'm building it into everything I create.
+My engineering background gave me structured problem-solving, systems thinking, and the ability to work across technical and non-technical domains. Product Management is where I apply all of that toward building things people genuinely need.
+
+I am now building the skills, portfolio, and evidence to work as a Product Manager in healthtech, edtech, or high-growth startups across Africa and beyond.
 
 ---
 
-## What I'm Building Right Now
+## This GitHub Is My PM Knowledge Graph
 
-| Focus | What | Why |
-|---|---|---|
-| 🔬 **Product Portfolio** | 4 end-to-end PM case studies | Demonstrate full-cycle PM thinking |
-| 📊 **Analytics** | SQL + Excel projects with product recommendations | Show data fluency, not just tool use |
-| 🔍 **Teardowns** | 50 product analyses (African healthtech prioritised) | Build pattern recognition in PM |
-| 📝 **PRD Library** | Professional product requirements documents | Prove I can write for engineers |
-| 🧠 **PM Frameworks** | Applied framework library with real examples | Own the concepts, not just name them |
-| ✍️ **Learning in Public** | Weekly journal entries | Compound learning visibly |
+Every repository here is a deliberate artifact — evidence that I can think, document, and operate like a Product Manager before holding the title formally.
+
+| Repository | Purpose |
+|---|---|
+| [pm-portfolio](https://github.com/karaninjoroge/pm-portfolio) | Central navigation hub for recruiters |
+| [hospital-queue-management](https://github.com/karaninjoroge/hospital-queue-management) | Full PM case study — healthtech |
+| [student-internship-marketplace](https://github.com/karaninjoroge/student-internship-marketplace) | Full PM case study — two-sided marketplace |
+| [medical-equipment-maintenance-tracker](https://github.com/karaninjoroge/medical-equipment-maintenance-tracker) | Full PM case study — B2B SaaS |
+| [ai-study-planner](https://github.com/karaninjoroge/ai-study-planner) | Full PM case study — AI product |
+| [product-requirements-documents](https://github.com/karaninjoroge/product-requirements-documents) | PRD library and templates |
+| [product-teardowns](https://github.com/karaninjoroge/product-teardowns) | Product analysis lab |
+| [analytics-projects](https://github.com/karaninjoroge/analytics-projects) | SQL and data analysis work |
+| [pm-frameworks](https://github.com/karaninjoroge/pm-frameworks) | Framework reference library |
+| [product-learning-journal](https://github.com/karaninjoroge/product-learning-journal) | Weekly learning log — learning in public |
+| [interview-story-bank](https://github.com/karaninjoroge/interview-story-bank) | STAR stories and interview preparation |
+| [career-dashboard](https://github.com/karaninjoroge/career-dashboard) | Career progress tracker |
 
 ---
 
 ## PM Toolkit
 
-**Product**
-`Product Discovery` `User Research` `Jobs-to-be-Done` `Product Strategy` `Roadmapping` `Prioritisation (RICE/ICE/MoSCoW)` `PRD Writing` `Feature Scoping` `Go-to-Market`
+**Product Thinking**
+Product Discovery · User Research · Product Strategy · Roadmapping · Prioritization (RICE, MoSCoW, Kano) · PRD Writing · Go-to-Market Planning · OKRs · Jobs To Be Done · Opportunity Solution Tree
 
 **Data & Analytics**
-`SQL` `Excel` `Funnel Analysis` `Cohort Analysis` `A/B Testing Concepts` `North Star Metrics` `AARRR` `OKRs`
+SQL · Excel · Funnel Analysis · Cohort Analysis · Metrics Definition · North Star Frameworks · Product Analytics
 
-**Research**
-`User Interviews` `Persona Development` `Journey Mapping` `Competitive Analysis` `Opportunity Solution Trees`
+**Research Methods**
+User Interviews · Persona Development · Journey Mapping · Competitive Analysis · Opportunity Assessment · Synthesis
 
-**Design & Documentation**
-`Figma (Wireframing)` `User Story Mapping` `Double Diamond` `Design Thinking`
+**Documentation**
+PRDs · One-Pagers · Case Studies · Research Synthesis · Technical Writing · Notion
 
 **Tools**
-`Notion` `GitHub` `Google Analytics` `Miro` `Airtable`
+GitHub · Figma · Notion · AI Tools · Google Workspace
 
-**Domain**
-`African Healthtech` `Medical Devices` `Clinical Workflows` `Silicon Savannah Ecosystem`
+**Certifications**
+Product School PM Micro-Certification · PM Help Product Management Program
 
 ---
 
 ## Featured Projects
 
 ### 🏥 Hospital Queue Management Platform
-> *Reducing patient waiting time in Kenyan public hospitals from 4+ hours to under 90 minutes*
-
-Kenya's public hospitals lose an estimated 40% of daily appointment capacity to no-shows and queue mismanagement. This project proposes a digital queue system designed for low-bandwidth environments with USSD fallback for patients without smartphones.
-
-**PM Skills:** User research (8 interviews with patients + 3 with nurses) · Persona development · Journey mapping · Prioritisation (RICE) · PRD · Roadmap · Success metrics
-
-[→ View Full Case Study](../hospital-queue-management)
+**Problem:** Kenyan public hospitals average 3–6 hour outpatient wait times, causing patients to leave untreated and clinical staff to burn out managing physical queues.
+**Solution:** A digital queue management platform enabling remote patient registration, real-time status updates, and arrival-time optimization.
+**PM Skills Demonstrated:** Problem framing · User research · Persona development · Journey mapping · Competitor analysis · PRD · Prioritization · Success metrics
+→ **[View Full Case Study](https://github.com/karaninjoroge/hospital-queue-management)**
 
 ---
 
 ### 🎓 Student Internship Marketplace
-> *Connecting Kenyan university students with structured internship opportunities*
-
-The informal internship market in Kenya means most opportunities are accessed through personal networks, excluding students from non-elite institutions. This marketplace surfaces opportunities transparently and provides structured matching.
-
-**PM Skills:** Problem discovery · Competitive analysis · Two-sided marketplace dynamics · User stories · MVP scoping · Launch strategy
-
-[→ View Full Case Study](../student-internship-marketplace)
+**Problem:** Kenyan university students struggle to find structured internship opportunities. SMEs simultaneously lack a reliable pipeline for skilled, affordable talent.
+**Solution:** A two-sided marketplace connecting vetted students with SME internship opportunities, with built-in application tracking and employer reviews.
+**PM Skills Demonstrated:** Two-sided marketplace strategy · Dual-persona research · Competitor analysis · MVP scoping · PRD
+→ **[View Full Case Study](https://github.com/karaninjoroge/student-internship-marketplace)**
 
 ---
 
 ### 🔧 Medical Equipment Maintenance Tracker
-> *Preventing equipment failure in resource-limited health facilities*
-
-40-70% of medical equipment in sub-Saharan Africa is non-functional at any given time. This mobile-first tracker helps biomedical technicians log, schedule, and prioritise maintenance work — drawing directly on my biomedical engineering background.
-
-**PM Skills:** Domain expertise applied to product · Workflow analysis · B2B product design · Metrics design · Stakeholder mapping
-
-[→ View Full Case Study](../medical-equipment-maintenance-tracker)
+**Problem:** Public health facilities experience regular equipment downtime because maintenance is reactive, poorly documented, and uncoordinated across facilities.
+**Solution:** A lightweight B2B SaaS tracker that schedules preventive maintenance, alerts technicians, and builds a complete maintenance history per asset.
+**PM Skills Demonstrated:** B2B product strategy · Stakeholder mapping · Workflow analysis · PRD · Metrics design
+→ **[View Full Case Study](https://github.com/karaninjoroge/medical-equipment-maintenance-tracker)**
 
 ---
 
 ### 🤖 AI Study Planner
-> *Adaptive learning for Kenyan university students preparing for high-stakes exams*
-
-**PM Skills:** AI product design · Personalisation logic · Engagement metrics · Edtech user behaviour · Onboarding design
-
-[→ View Full Case Study](../ai-study-planner)
+**Problem:** University students study inefficiently — cramming before exams instead of using evidence-based revision techniques like spaced repetition.
+**Solution:** An AI-powered study planner that generates personalized revision schedules based on exam dates, subject difficulty, and past performance patterns.
+**PM Skills Demonstrated:** AI product strategy · User research · Feature prioritization · PRD · Success metrics
+→ **[View Full Case Study](https://github.com/karaninjoroge/ai-study-planner)**
 
 ---
 
 ## Learning in Public
 
-I document everything I learn about product management as I learn it. Not polished thought leadership — honest reflections from someone in the middle of the transition.
+I publish weekly reflections on product management concepts, frameworks I am applying, and lessons from products I analyze. Writing forces clarity — a PM who cannot explain something simply has not understood it deeply enough.
 
-> *"The best PMs I know write about what they're learning while they're learning it. The act of writing forces clarity that reading never does."*
-
-📓 [Weekly Learning Journal](../product-learning-journal) — updated every week
-🔍 [Product Teardowns](../product-teardowns) — 50 products to analyse over time
-🧠 [PM Frameworks Applied](../pm-frameworks) — frameworks explained through real examples
+→ **[Product Learning Journal](https://github.com/karaninjoroge/product-learning-journal)**
 
 ---
 
-## Product Teardown Series
+## Currently Building
 
-Analysing 50 products — prioritising African and Kenyan products first, because that's where my knowledge edge is sharpest.
-
-**In progress:** M-Pesa · M-Tiba · Ilara Health · Safaricom App · Twiga Foods
-**Up next:** Helium Health · Paystack · Flutterwave · Andela · Jumia
-
-[→ View All Teardowns](../product-teardowns)
-
----
-
-## Ecosystem Map
-
-```
-LinkedIn Profile
-      ↓
-Notion PM Second Brain (private working system)
-      ↓
-GitHub Portfolio Hub ← you are here
-      ↓
-├── Product Case Studies (4 end-to-end projects)
-├── PRD Library (professional requirements documents)
-├── Analytics Projects (SQL + Excel with recommendations)
-├── Product Teardowns (50 product analyses)
-├── PM Frameworks (applied library)
-├── Interview Story Bank (STAR-structured stories)
-└── Learning Journal (weekly public reflections)
-```
+- Completing full PM case studies for all four projects
+- Publishing weekly product teardowns
+- Practicing SQL for product analytics
+- Building Figma wireframes for portfolio projects
+- Growing my PM network across Kenya and Africa
 
 ---
 
-## Connect
+## Let's Connect
 
-I'm actively looking for **PM internships, APM roles, Product Ops, Founder Associate, and BA opportunities** — particularly in healthtech, fintech, and African tech ecosystems.
-
-If you're a PM, recruiter, or founder and want to talk — I'm always open to a conversation.
-
-**[LinkedIn](https://linkedin.com/in/denniskarani) · [Notion Portfolio](https://notion.so/denniskarani) · [Email](mailto:denniskarani@gmail.com)**
+- **LinkedIn:** [linkedin.com/in/karaninjoroge](https://linkedin.com/in/karaninjoroge)
+- **Email:** karani@email.com
+- **PM Portfolio:** [github.com/karaninjoroge/pm-portfolio](https://github.com/karaninjoroge/pm-portfolio)
 
 ---
 
 <div align="center">
-<sub>Nairobi, Kenya · Biomedical Engineering → Product Management · Building in public since 2024</sub>
+<i>Building deliberately. Learning in public. One artifact at a time.</i>
 </div>
